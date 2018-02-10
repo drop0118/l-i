@@ -1,12 +1,12 @@
 {
-    "name": "moregold/laravel-infrastructure",
+    "name": "drop0118/l-i",
     "type": "library",
     "description": "Additional abstractions and helpers for moregold's backend APIs",
     "keywords": [
-        "moregold",
+        "drop0118",
         "laravel-infrastructure"
     ],
-    "homepage": "https://github.com/moregold/laravel-infrastructure",
+    "homepage": "https://github.com/drop0118/l-i",
     "license": "proprietary",
     "authors": [
         {
