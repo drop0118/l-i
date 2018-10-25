@@ -60,7 +60,7 @@ trait FiltersTrait
 
     protected static function includeQuery($query = null, $includes = [])
     {
-        if (count($includes) < 1) {
+        if (@count($includes) < 1) {
             return $query;
         }
 
