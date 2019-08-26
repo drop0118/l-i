@@ -75,7 +75,7 @@ abstract class Model extends Eloquent implements RulesInterface
      * The "booting" method of the model. Boots parent model,
      * then attaches hook to saving event for model.
      */
-    public static function boot()
+    protected static function boot()
     {
         parent::boot();
 
